@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.home-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+}
+.home-img {
+  height: 40vh;
+}
+.route-head {
+  font-family: 'Roboto';
+  color: #1e293b;
+  font-size: 38px;
+}
+.home-dark-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+  background-color: #000000;
+  height: 80vh;
+}
+.route-dark-head {
+  font-family: 'Roboto';
+  color: #f8fafc;
+  font-size: 38px;
+}
